@@ -1,5 +1,4 @@
 Real-time mapping of periodic dance movements to control music playback tempo
-=================================================
 
 ## Description
 
@@ -14,8 +13,8 @@ A proof-of-concept prototype to detect rhythmicity in motions in real-time. The 
 
 - Make sure the sensor is sending out to the right ip-address and local-host (your computer) and only one sensor is being used (right now, two udp-senders are connected).
   Instructions can be found here:
-  https://www.vibra.no/blogg/connecting-multiple-sensors-part-1-ngimus-over-wi-fi
-  http://x-io.co.uk/ngimu/
+  * https://www.vibra.no/blogg/connecting-multiple-sensors-part-1-ngimus-over-wi-fi
+  * http://x-io.co.uk/ngimu/
 
 - Make sure attributes in pipo.yin object are set. Can be set both manually or to be static. If not modified, the attributes are put to default values that are listed in the patch.
 
