@@ -1,8 +1,8 @@
-## Real-time mapping of periodic dance movements to control music playback tempo
+## Mapping periodic dance movements to control music playback tempo in real-time
 
 ## Description
 
-A proof-of-concept prototype to detect rhythmicity in motions in real-time. The rhythmicity is then analysed for changing the bpm of a chosen music playback.
+A proof-of-concept prototype to detect rhythmicity in motions in real-time that was developed in my master thesis project. The rhythmicity is then analysed for changing the bpm of a chosen music playback. 
 
 ## Installation
 
