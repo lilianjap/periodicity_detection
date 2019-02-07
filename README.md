@@ -1,4 +1,4 @@
-Real-time mapping of periodic dance movements to control music playback tempo
+## Real-time mapping of periodic dance movements to control music playback tempo
 
 ## Description
 
