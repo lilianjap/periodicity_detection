@@ -7,7 +7,7 @@ A proof-of-concept prototype to detect rhythmicity in motions in real-time that 
 ## Installation
 
 * Mubu toolbox: https://forumnet.ircam.fr/product/mubu-en/
-* Requires Max/MSP 7 as the latest version, Max/MSP 8 is not compatible with the Mubu toolbox (as of Spring 2019)
+* Requires Max/MSP 7 as the latest version, the Mubu toolbox is not compatible with Max/MSP 8(as of Spring 2019)
 
 ## Things to think about
 
